@@ -1,4 +1,4 @@
-const connStr = "Server=i4pro10,11433;Database=testenode;User Id=sa;Password=Engine2017!;";
+const connStr = "Server=xxx;Database=xxx;User Id=xx;Password=xxxxx;";
 const sql = require("mssql");
 
 // sql.connect(connStr)
